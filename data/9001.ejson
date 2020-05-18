@@ -1,0 +1,30 @@
+//one channel , one ejson
+{
+//global config
+"conf": {
+	"appurl1" : "",
+	"url": "",
+	"sig" : "d3424aad11a6baf775eb5bd9d4cd3456"
+},
+
+//for client config
+"client" : {
+
+},
+
+
+//for all version
+"1.0":{
+
+	//global config
+	"conf": {
+
+	},
+
+	//for client config
+	"client" : {
+
+	}
+}
+
+}
